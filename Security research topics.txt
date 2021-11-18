@@ -1,0 +1,28 @@
+1.The policy of installing applications to the phones and tables
+2.Security measures in Windows, Unix and MacOS
+3.Encrypting viruses
+4.Loss of data and its restoration
+5.The process of authentication
+6.Data encryption algorithms
+7.The ways of network intrusion and their detection and prevention
+8.Itsand security measures
+9.The most prominent pandemics of cyber viruses
+10.White hat and black hat hackers: who are they?
+11.Phishing and scam in the Internet
+12.Social networks and digital security
+13.Revenge porn and blackmailing in the Internet
+14.What is firewall and how it helps to protect the network?
+15.Cookies, privacy and cyber security
+16.Identity theft in the Internet
+17.The strategies of password
+18.Device synchronisation and protection
+19.Terms and conditions in the software
+20.Digital piracy and security
+21.Laws against cyber crimes
+22.Cyber security while downloading files
+23.Social engineering and its importance
+24.The most well-known closed vulnerabilities
+25.The emergency actions after hacking
+26.Biometrics and cyber security
+27.Bots and cyber security
+28.The unified user profiles, their advantages and dangers
